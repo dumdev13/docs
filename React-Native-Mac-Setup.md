@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="one-way-to-react-native-at-fordlabs">One way to React-Native at FordLabs</h1>
 <p>Building native apps for 2 platforms hurts so React-Native might be a better solution. You do have to install twice the tooling to get yourself up and running, and the Ford proxies/IT policies don’t exactly make this a breeze. I found one way to get it done which is below but please <strong>seek the council of dharr419</strong> as he is probably the most experienced at this.</p>
 <p>Software that must be installed to get your app running and with local simulation:</p>
