@@ -1,7 +1,5 @@
 ---
-title: 'FordLabs React-Native: an approach to dev machine setup'
-author: Matt Trueblood
-tags: 'React-Native, X-code, Android Studio'
+
 
 ---
 
